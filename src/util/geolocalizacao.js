@@ -1,0 +1,1 @@
+export default GOOGLE_MAPS_KEY = AIzaSyA7j2Wxb3ssgll7-OXqsvdUxsntZtA2rv4
